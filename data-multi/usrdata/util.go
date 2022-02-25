@@ -1,0 +1,3 @@
+package usrdata
+
+func helper() {}
